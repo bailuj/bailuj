@@ -2,7 +2,7 @@
 
 Me chamo Julia Barros, sou aspirante a designer e espero um dia poder realizar o sonho de trabalhar com jogos. 🎮💙
 
-<p align="center"> <img src="https://media1.tenor.com/m/HnhN7N3XTMEAAAAd/life-is-strange-consequences.gif" width="600"> </p>
+<p align="center"> <img src="https://media1.tenor.com/m/nergGZQtvCoAAAAC/lstr-lstr-512.gif" width="600"> </p>
  
 ## <p align="center"> Ferramentas Favoritas
 
