@@ -22,4 +22,4 @@ Me chamo Julia Barros, sou aspirante a designer e espero um dia poder realizar o
        height="100"/>
 </p>
 
-<p align="center"> <img src="https://radahl.no/wp-content/uploads/sites/12/2021/11/giphy-7.gif" width="450"> <img src="https://i.imgur.com/Cnd50W1.gif" width="450"> </p>
+<p align="center"> <img src="https://miro.medium.com/v2/resize:fit:960/0*46aazGSS70EHyDi-.gif" width="450"> <img src="https://i.imgur.com/Cnd50W1.gif" width="450"> </p>
